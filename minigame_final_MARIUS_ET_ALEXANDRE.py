@@ -1,7 +1,7 @@
 """
 Auteur : DU Alexandre et REQUILLART Marius
 Date de création : 30/11/2023
-Nom du fichier : minigame.py
+Nom du fichier : minigame_final_MARIUS_ET_ALEXANDRE.py
 Description : Ce programme génère un jeu de labyrinthe aléatoire où le joueur doit se déplacer à travers la carte,
 collecter des objets et atteindre la sortie pour passer au niveau suivant. Le jeu propose différents niveaux de difficulté.
 """
